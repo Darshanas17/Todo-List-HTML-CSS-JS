@@ -27,11 +27,11 @@ Follow the steps below to get this project running locally:
 ### Installation
 1. Clone this repository to your local machine:
    ```bash
-   [git clone https://github.com/Darshanas17/Todo-List-HTML-CSS-JS.git]
+   git clone https://github.com/Darshanas17/Todo-List-HTML-CSS-JS.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd todo-list-app
+   cd Todo-List-HTML-CSS-JS
    ```
 3. Open the `index.html` file in your web browser:
    ```bash
@@ -59,20 +59,19 @@ todo-list-app/
 ## Screenshots
 
 ### Main Interface
-![Todo List Main Interface](https://via.placeholder.com/800x400?text=Screenshot+of+Main+Interface)
+![Todo List Main Interface](https://github.com/Darshanas17/Todo-List-HTML-CSS-JS/blob/main/Screenshots/Main%20Interface.png)
 
 ### Adding Tasks
-![Adding Tasks](https://via.placeholder.com/800x400?text=Screenshot+of+Adding+Tasks)
+![Adding Tasks](https://github.com/Darshanas17/Todo-List-HTML-CSS-JS/blob/main/Screenshots/Adding%20Tasks.png)
 
 ### Marking Tasks as Complete
-![Marking Tasks as Complete](https://via.placeholder.com/800x400?text=Screenshot+of+Completed+Task)
+![Marking Tasks as Complete](https://github.com/Darshanas17/Todo-List-HTML-CSS-JS/blob/main/Screenshots/Marking%20Tasks%20as%20Complete.png)
 
 ## Future Enhancements
 
 - Add due dates and reminders for tasks.
 - Integrate with a backend for user accounts and cloud storage.
 - Implement drag-and-drop to reorder tasks.
-
 
 ## License
 
